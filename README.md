@@ -1,10 +1,4 @@
-aeswnh.github.io - Personal Portfolio
-
-<p align="center">
-<img src="https://github.com/aeswnh.png" width="150" alt="Aeswnh Profile Picture" style="border-radius: 50%;"/>
-</p>
-
-<h1 align="center">👋 Halo, Saya Aeswnh!</h1>
+<h1 align="center">👋 Halo, Saya Aes!</h1>
 
 <p align="center">
 <em>Automation & Bot Developer. C/C++/Rust Explorer. Founder of <strong>aes-co</strong>.</em>
