@@ -1,106 +1,93 @@
+aeswnh.github.io - Personal Portfolio
+
 <p align="center">
-<img src="https://github.com/aeswnh.png" width="150" alt="Aeswnh Profile Picture"/>
+<img src="https://github.com/aeswnh.png" width="150" alt="Aeswnh Profile Picture" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">👋 Halo, Saya Aeswnh!</h1>
 
 <p align="center">
-<em>Pengembang Otomatisasi & Bot. Penggali C/C++/Rust. Founder aes.co.<br>
-Membangun dalam senyap, baris demi baris.</em>
+<em>Automation & Bot Developer. C/C++/Rust Explorer. Founder of <strong>aes-co</strong>.</em>
+<br>
+<em>Membangun dalam senyap, baris demi baris.</em>
 </p>
-
-🌱 Tentang Saya
-Saya adalah pengembang otodidak yang bersemangat dalam membangun solusi teknologi dengan pendekatan "minimal kebisingan dan niat maksimal". Dengan pengalaman lebih dari 3 tahun di dunia coding, saya telah menciptakan lebih dari 15 proyek dan mahir dalam 5 bahasa pemrograman, selalu dalam mode belajar berkelanjutan.
-
-Dulu saya aktif mengoprek ROM, kernel, dan UI sebagai pengembang Android. Kini, fokus saya beralih ke pembuatan bot, penulisan skrip, dan mendalami pemrograman C/C++ tingkat rendah di Zorin OS. Saat ini, saya sedang mendalami pemrograman sistem dengan Rust dan mengembangkan beberapa alat CLI untuk otomasi, serta bereksperimen dengan model bahasa besar (LLM) lokal untuk proyek pribadi.
-
-📊 Statistik Cepat
-3+ Tahun Koding
-
-15+ Proyek Dibuat
-
-5 Bahasa Dikuasai
-
-24/7 Mode Belajar
-
-🧠 Stack & Skill
-Saya bekerja dengan berbagai teknologi, termasuk:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,nodejs,bash,c,cpp,rust,markdown&theme=dark" height="48" alt="Linux, Python, Node.js, Bash, C, C++, Rust, Markdown skills"/>
+<a href="https://aeswnh.github.io" target="_blank">
+<img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-aeswnh.github.io-8a4baf?style=for-the-badge&logo=github" alt="Live Portfolio"/>
+</a>
+</p>
+📂 Tentang Repositori Ini
+
+Selamat datang di repositori untuk portofolio pribadi saya. Repositori ini berisi semua kode sumber (HTML, CSS, dan JavaScript) yang membangun situs web interaktif yang Anda lihat di aeswnh.github.io.
+
+Tujuan utama dari proyek ini adalah untuk menciptakan sebuah "kartu nama digital" yang tidak hanya menampilkan keahlian dan proyek saya, tetapi juga mencerminkan filosofi saya dalam pengembangan: minimalis, fungsional, dan penuh dengan detail tersembunyi.
+
+Fitur Unggulan di Situs Live:
+
+    Animasi 3D Interaktif: Latar belakang dengan objek 3D yang merespons gerakan mouse.
+
+    Terminal Palsu: Coba perintah seperti whois, projects, atau contact untuk navigasi cepat.
+
+    Efek Visual Modern: Efek frosted glass dengan glow interaktif pada setiap elemen kartu.
+
+    Desain Responsif & Dwibahasa: Pengalaman yang mulus di semua perangkat, tersedia dalam Bahasa Indonesia dan Inggris.
+
+🌱 Tentang Saya
+
+Saya adalah seorang pengembang otodidak yang bersemangat dalam membangun solusi teknologi dengan pendekatan "minimal kebisingan dan niat maksimal". Perjalanan saya dimulai dari dunia modding Android, yang kemudian berevolusi menjadi kecintaan pada otomasi, pengembangan bot, dan kini mendalami pemrograman sistem tingkat rendah.
+
+Saat ini, saya fokus menajamkan keahlian di Rust dan C++ untuk system programming, membangun CLI tools yang super cepat, dan menjelajahi dunia WebAssembly untuk performa web tingkat dewa.
+🧠 Stack & Keahlian Utama
+
+Saya bekerja dengan berbagai teknologi, namun fokus utama saya ada pada:
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,python,c,cpp,rust,bash,nodejs,git&theme=dark" height="48" alt="Tech Stack Icons"/>
 </p>
 
-C/C++: Keahlian kuat dalam pemrograman sistem.
+    Low-Level & Systems: C, C++, Rust
 
-Python: Sangat mahir dalam pengembangan bot dan skrip.
+    Automation & Backend: Python, Bash Scripting, Node.js
 
-Node.js: Digunakan untuk berbagai proyek.
+    Tools & Platforms: Linux, Git, Docker, GitHub Actions
 
-Bash Scripting: Otomasi tugas-tugas di lingkungan Linux.
+🚀 Organisasi & Proyek
 
-Rust: Sedang dalam proses pembelajaran mendalam untuk pemrograman sistem.
+Saya adalah pendiri aes-co, sebuah organisasi GitHub kecil yang didedikasikan untuk membangun perkakas otomasi dan framework bot. Semua proyek kami bersifat open-source.
 
-Android Modding (Dulu): Pengalaman luas dalam modifikasi ROM, kernel, dan UI.
+Beberapa proyek unggulan di bawah naungan aes-co:
 
-🚀 Proyek Unggulan
-Berikut adalah beberapa proyek yang saya banggakan:
+    Modcore: Core modular ringan untuk membangun bot Telegram dengan dukungan AI.
 
-Umodcore
-Deskripsi: Userbot Telegram modular dan ringan yang dibangun menggunakan Pyrogram. Dirancang untuk kecepatan, kebersihan, dan kemudahan perluasan.
+    Umodcore: Versi userbot dari Modcore yang dibangun menggunakan Pyrogram.
 
-Teknologi: Python, Pyrogram, Telegram, User bot
+    MaestroBot: Bot orkestrasi untuk mengelola beberapa bot lain dari satu titik kontrol.
 
-Modcore
-Deskripsi: Inti modular ringan untuk membangun bot Telegram dengan dukungan AI, moderasi, dan plugin kustom. Dibangun dari awal dengan skalabilitas dalam pikiran.
-
-Teknologi: Python, Telegram, Bots, AI Integration, Modular
-
-Aether Bot
-Deskripsi: Bot Telegram yang berfokus pada OSINT (Open-Source Intelligence) dan investigasi. Didukung oleh Python & Pyrogram.
-
-Teknologi: Python, Pyrogram, OSINT, Investigation, Telegram (Beta)
-
-Coming Soon... 🐱
-Deskripsi: Sebuah proyek baru sedang disiapkan secara senyap. Nantikan!
-
-Status: Coming Soon
-
-🌱 Komunitas & Organisasi (aes.co)
-Saya adalah pendiri aes.co, sebuah organisasi GitHub kecil yang didedikasikan untuk membangun otomatisasi, perkakas, dan framework bot — semua dengan filosofi "minimal kebisingan dan niat maksimal". Kami mengutamakan pengembangan yang tenang, jelas, dan didorong oleh rasa ingin tahu.
-
-Kunjungi organisasi kami di GitHub: github.com/aes-co
-
-💻 Perangkat & Pengaturan
-Laptop: Acer Aspire A314-31, Zorin OS 17.3, RAM 4GB
-
-CPU: Intel Celeron N3350 (2.40GHz), GPU: Intel HD 500
-
-DE: GNOME 43.9 + WhiteSur Light theme
-
-Ponsel: Samsung Galaxy Note 10
-
-Editor: VS Code dengan font JetBrains Mono
+    Kunjungi aes-co untuk melihat semua proyek kami.
 
 📬 Hubungi Saya
-GitHub: @aeswnh
 
-Telegram: @aesneverhere
+Anda dapat menemukan saya di platform berikut:
 
-Email: aesh.n@outlook.com
+<p align="center">
+<a href="https://github.com/aeswnh" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@aeswnh-181717?style=for-the-badge&logo=github"></a> &nbsp;
+<a href="https://t.me/aesneverhere" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@aesneverhere-2CA5E0?style=for-the-badge&logo=telegram"></a> &nbsp;
+<a href="mailto:aesh.n@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-aesh.n@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook"></a>
+</p>
 
 <p align="center">
 <pre>
-|_/,|   (`
-
+|/,|  (`
 .| _  |.--.) )
--.-"( T   )     /
-(((^(((/(((_/
+-.-"( T   )   /
+(((^(((/(((/
 </pre>
 <i>Kami tidak diam karena tidak ada yang bisa dikatakan. Kami diam karena kami masih membangun.</i>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aeswnh&style=flat-square&color=blue" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=aeswnh&style=flat-square&color=blueviolet" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/automation-in%20progress-blueviolet?style=flat-square"/>
 <img src="https://img.shields.io/badge/focused%20on-calm%20creations-9cf?style=flat-square"/>
 </p>
